@@ -1,0 +1,23 @@
+C:\Documents and Settings\127-tmatthews\my documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\127-tmatthews\my documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\127-tmatthews\my documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\127-tmatthews\My Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Conquest.exe
+C:\Documents and Settings\127-tmatthews\My Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Conquest.pdb
+C:\Documents and Settings\127-tmatthews\My Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Conquest.xml
+C:\Documents and Settings\127-tmatthews\My Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Conquest.Form1.resources
+C:\Documents and Settings\127-tmatthews\My Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Conquest.Form2.resources
+C:\Documents and Settings\127-tmatthews\My Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Conquest.Resources.resources
+C:\Documents and Settings\127-tmatthews\My Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Conquest.exe
+C:\Documents and Settings\127-tmatthews\My Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Conquest.xml
+C:\Documents and Settings\127-tmatthews\My Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Conquest.pdb
+Y:\Documents\School\Programming\Trevor Matthews Final Game\WindowsApplication2\obj\x86\Debug\Conquest.exe
+Y:\Documents\School\Programming\Trevor Matthews Final Game\WindowsApplication2\obj\x86\Debug\Conquest.xml
+Y:\Documents\School\Programming\Trevor Matthews Final Game\WindowsApplication2\obj\x86\Debug\Conquest.pdb
+Y:\Documents\School\Programming\Trevor Matthews Final Game\WindowsApplication2\bin\Debug\Conquest.exe
+Y:\Documents\School\Programming\Trevor Matthews Final Game\WindowsApplication2\bin\Debug\Conquest.pdb
+Y:\Documents\School\Programming\Trevor Matthews Final Game\WindowsApplication2\bin\Debug\Conquest.xml
+Y:\Documents\School\Programming\Trevor Matthews Final Game\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+Y:\Documents\School\Programming\Trevor Matthews Final Game\WindowsApplication2\obj\x86\Debug\Conquest.Form1.resources
+Y:\Documents\School\Programming\Trevor Matthews Final Game\WindowsApplication2\obj\x86\Debug\Conquest.Form2.resources
+Y:\Documents\School\Programming\Trevor Matthews Final Game\WindowsApplication2\obj\x86\Debug\Conquest.Resources.resources
+Y:\Documents\School\Programming\Trevor Matthews Final Game\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
